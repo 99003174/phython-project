@@ -36,7 +36,7 @@ class Student:
         i = obj1.search(rn)
         rolln = No
         ls[i].roll = rolln;
-            ls = []
+ls = []
 # Object of class
 obj1 = Student('', 0, 0, 0)
 print("\nOperations used, ")
@@ -73,3 +73,4 @@ print("List after updation")
 for i in range(ls.__len__()):
     obj1.display(ls[i])
     print("Thank You !")
+
