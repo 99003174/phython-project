@@ -35,7 +35,7 @@ class Student:
     def update(self, rn, No):
         i = obj1.search(rn)
         rolln = No
-        ls[i].roll = rolln:
+        ls[i].roll = rolln;
             ls = []
 # Object of class
 obj1 = Student('', 0, 0, 0)
